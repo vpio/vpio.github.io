@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #110806;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.navbar-funny {
+  font-family: 'Source Code Pro', monospace;
+  color: white;
+  background-color: transparent;
+}
+
+.app {
+  background-color: #110806;
 }
