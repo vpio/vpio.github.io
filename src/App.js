@@ -15,7 +15,6 @@ function App() {
         <Container>
           <h1>Website Under Construction - Come back Soon!</h1>
         </Container>
-        </Nav>
       </div>
     </div>
   );
